@@ -1,0 +1,21 @@
+// Project structure for edens-tree-academy
+.
+├── package.json
+├── index.html
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── components/
+│   │   ├── Navigation.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   ├── Blog.jsx
+│   │   └── courses/
+│   │       ├── DivineFoundations.jsx
+│   │       └── ChristianGiants.jsx
+│   ├── styles/
+│   │   └── main.css
+│   └── assets/
+│       └── images/
+└── README.md
